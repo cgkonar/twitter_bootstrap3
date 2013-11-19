@@ -1,0 +1,1473 @@
+2013-11-13 10:09:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 10:10:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:44:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:55:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:55:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:55:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:55:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:55:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:55:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:55:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:55:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 11:56:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 12:06:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/cake.generic.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 12:19:52 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /prototype2/users/favicon.ico
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:21:51 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:21:51 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:21:51 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:21:51 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:21:51 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:02 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:02 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:02 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:02 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:02 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:04 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:04 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:04 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:04 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:04 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:07 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:07 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:07 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:07 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:24:07 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:38 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:38 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:38 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:38 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:38 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:40 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:40 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:40 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:40 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:25:40 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:22 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:22 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:22 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:22 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:22 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:26 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:26 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:26 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:26 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:26 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:37 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:37 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:37 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:37 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:26:37 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:29:02 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:29:02 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:33:24 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:33:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 12:33:24 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:33:24 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:33:24 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:33:24 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:36:43 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:36:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/css/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 12:36:43 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:39:18 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:39:18 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:40:17 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 12:40:17 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:19:48 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:19:48 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:19:48 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:19:48 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:21:15 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:21:15 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:21:15 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:21:15 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/bootstrap.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/bootstrap.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::font-awesome() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'font-awesome',
+)
+Request URL: /prototype2/users/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'css',
+)
+Request URL: /prototype2/users/css/stylish-portfolio.css
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /prototype2/users/js/jquery.js
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:16 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:58 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/img/callout.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 13:34:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /prototype2/img/bg.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-13 13:34:58 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:58 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:34:58 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:50:31 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:50:31 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:50:31 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:50:31 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:56:44 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:56:44 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:56:44 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:56:44 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:58:02 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:58:02 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:58:02 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 13:58:02 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:08:34 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:08:34 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:08:34 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:08:34 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:17:39 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:17:39 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:17:39 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:17:39 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:17:47 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:17:47 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:17:47 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:17:47 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:18:17 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:18:17 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:18:17 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:18:17 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:18:31 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:18:31 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:18:31 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:18:31 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:23:03 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:23:03 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:23:03 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:23:03 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:23:21 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-3.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:23:21 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-2.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:23:21 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-1.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-13 14:23:21 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /prototype2/users/img/portfolio-4.jpg
+Stack Trace:
+#0 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/takayukii/GoogleDrive/workspaces/goodii/prototype2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
